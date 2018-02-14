@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script helps you to download Distrowatch.com Linux database, sorts and saves it locally.
-# This script can help you in classifying content on the web
+# This script can help you in classifying content on the web, build analytics, infographics etc.
 # It's description and information on how to use it is in official github - welcome:
 # https://github.com/sxiii/distrowatch-scraper
 
