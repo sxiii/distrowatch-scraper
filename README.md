@@ -57,3 +57,10 @@ If you notice any other bugs, please create an issue.
 * You might help to improve this script. Read the "future plan section"
 * That's a good idea to implement your own ideas and commit them to this repository
 * Contact me on telegram (fakesnowden) for your ideas and knowledge exchange
+
+## Useful links on the topic
+* https://distrowatch.com
+* https://distrowatch.com/weekly.php?issue=current
+* http://futurist.se/gldt/
+* https://github.com/FabioLolix/LinuxTimeline
+* https://en.wikipedia.org/wiki/Linux_distribution
