@@ -1,4 +1,7 @@
 #!/bin/bash
+# This script is part of work on classifying content on the web
+# It's description and information on how to use it is in official github - welcome:
+# https://github.com/sxiii/distrowatch-scraper
 
 echo "Getting current quantity of Linux Distributions..." 
 q=$(wget -q -O - distrowatch.com/weekly.php?issue=current | grep "all distributions</a> in the database" | awk -F":" '{ print $2 }' | awk -F"<" '{ print $1 }')
