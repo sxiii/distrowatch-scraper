@@ -64,3 +64,5 @@ If you notice any other bugs, please create an issue.
 * http://futurist.se/gldt/
 * https://github.com/FabioLolix/LinuxTimeline
 * https://en.wikipedia.org/wiki/Linux_distribution
+
+*may the source be with you.*
