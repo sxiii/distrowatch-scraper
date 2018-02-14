@@ -39,6 +39,8 @@ They are layed out in $(current.date) directory (if today is 12.12.2012, the dir
 * "Website" - official web portal of the distro,
 * "Latest version" - latest published version of the distro.
 
+There'd also be a linux-clean.list, which is list of all current distribution names.
+
 Note: as it's Linux world, you might port any of distributions from supported platform architecture to unsupported (rewrite, recheck and recompile it), you might compile another desktop environment for it. Distributions statuses might be incorrect because information delay or just a human error. So to be sure, just check all fields and know, that this data "is not a diagnosis".
 
 
