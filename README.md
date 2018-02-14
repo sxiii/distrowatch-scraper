@@ -15,7 +15,13 @@ Download whole distrowatch database with information on each distribution to sep
 * grep
 * Bash/linux
 
-## How to use the script
+## How to use the script in 6 steps
+0. Install the requirements (arch: `sudo pacman -S html2text wget git`)
+1. Clone this repository (`git clone https://github.com/sxiii/distrowatch-scraper`)
+2. Enter the cloned folder (`cd distr*`)
+3. Make the script executable (`chmod +x parse.sh`)
+4. Run it (`./parse.sh`)
+5. Review it's console output or file output (files are created in current date folder!)
 
 ## How to view the results
 They are layed out in $(current.date) directory (if today is 12.12.2012, the directory will be 12.12.2012). Inside this folder you'll find more then 800 files. Most of the files are named ".results" and ".desc". Desc - it's downloaded web pages with full HTML source of distribution description. ".results" is files with sorted results according to the following scheme:
