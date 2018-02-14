@@ -1,6 +1,8 @@
 # Distrowatch scraper/crawler (spider)
 Download whole distrowatch database with information on each distribution to separate files
 
+![Img](https://imgur.com/kAOI7fU.png)
+
 ## Why do you need this
 * You like to survey or find information about distributions
 * You're writing a diploma or analytical work
