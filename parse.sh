@@ -19,7 +19,6 @@ echo "Loading distros info..."
 sed '/^\s*$/d' ../linux.list > ../linux-clean.list
 rm ../linux.list
 
-
 cat ../linux-clean.list | while read line;do
 
 i=$(($i+1))
