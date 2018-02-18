@@ -1,4 +1,5 @@
-## This folder contains plot script output
+### This folder contains plot script output
+It's just a samples what can be created with the script.
 
 ## Usage
 
@@ -11,3 +12,6 @@ You might also manually draw countries heatmap with openheatmap.com
 
 ## If something goes wrong
 Please check the scripts source code, installed dependencies. If nothing helps, please fill me an issue here in github. Thanks.
+
+## Linux Architectures
+![Arch](https://github.com/sxiii/distrowatch-scraper/blob/master/plot-sample/arch.png)
