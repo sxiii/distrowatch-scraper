@@ -10,15 +10,15 @@ Download whole distrowatch database with information on each distribution to sep
 * You're studying how to write scripts and/or crawlers/scrapers
 
 ## Requirements
-* Works with ubuntu & arch. Recent version is developed on Arch (Manjaro)
+Works with arch, ubuntu & fedora. Recent version is developed on Arch (Manjaro)
 * html2text
 * wget
 * sed
 * grep
-* Bash/linux
+* bash/linux
 
 ## How to use the script in 6 steps
-0. Install the requirements (arch: `sudo pacman -S html2text wget git`)
+0. Install the requirements (arch: `sudo pacman -S html2text wget git`) # replace with apt for ubuntu and dnf for fedora
 1. Clone this repository (`git clone https://github.com/sxiii/distrowatch-scraper`)
 2. Enter the cloned folder (`cd distr*`)
 3. Make the script executable (`chmod +x parse.sh`)
@@ -42,7 +42,6 @@ They are layed out in $(current.date) directory (if today is 12.12.2012, the dir
 There'd also be a linux-clean.list, which is list of all current distribution names.
 
 Note: as it's Linux world, you might port any of distributions from supported platform architecture to unsupported (rewrite, recheck and recompile it), you might compile another desktop environment for it. Distributions statuses might be incorrect because information delay or just a human error. So to be sure, just check all fields and know, that this data "is not a diagnosis".
-
 
 ## Future plans
 * Make the script output data & generate some fancy infographics after downlading database
@@ -70,3 +69,6 @@ If you notice any other bugs, please create an issue.
 * https://en.wikipedia.org/wiki/Linux_distribution
 
 *may the source be with you.*
+
+## Last update
+Still works in 2020; 911 active distributions @ 16 oct 2020.
