@@ -1,3 +1,4 @@
+#Polltall.sh code
 #!/bin/bash
 # This script plots analytics based on gathered data.
 # It needs gnuplot to be installed along with 4 ".plot" files (templates).
